@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cstring>
-using namespace std;
+using namespace std; 
 struct dado{
 	int status, k;
 	char info[50];
