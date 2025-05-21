@@ -1,2 +1,2 @@
-# Algoritmos---2
-Resoluções referente a matéria de algoritmos 2.
+# Algoritmos-2
+Resoluções referente as aulas de algoritmos 2.
